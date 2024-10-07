@@ -12,7 +12,7 @@ Yes. SHA-3 provides more secure and safety than SHA-1 and SHA-2 endpoints.
 
 # This changes will includes without service packs on Server 2008 R2?
 
-No. Since Server 2008 R2 is ending on December 10, 2024, update servers still supported with SHA-1 and SHA-2 endpoints until January 14, 2025.
+No. Since Server 2008 R2 without service packs is ending on December 10, 2024, update servers still supported with SHA-1 and SHA-2 endpoints until January 14, 2025.
 
 # Shebnem Datacenter will included on NSUS servers?
 
