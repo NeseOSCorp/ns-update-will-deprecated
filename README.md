@@ -1,6 +1,12 @@
+# Last update (news only): November 21, 2024 (12:33 AM in Azerbaijan time)!
+
 # NeseOS Update will deprecated SHA-1 and SHA-2 endpoints?
 
-Yes. Starting January 1, 2025, we're deprecating SHA-1 and SHA-2 endpoints on NeseOS Update servers. That means, you will no longer received security updates etc. from NeseOS Update. Due to declined Nese Update reasons, automatically upgrade function isn't worked so, we'll require upgrade to newest versions of Nese-based operating systems to receive security updates.
+Yes. Starting January 1, 2025, we're deprecating SHA-1 and SHA-2 endpoints on NeseOS Update servers. That means, you will no longer received security updates etc. from NeseOS Update. 
+
+[ Updated News ] 
+
+Due to declined Nese Update reasons, automatically upgrade function isn't worked so, we're highly recommend upgrade to newest versions of Nese-based operating systems to receive security updates.
 
 # What exactly means?
 
